@@ -1,0 +1,78 @@
+[
+ {
+  "mode": "memory",
+  "night": 1,
+  "asof": "2026-08-30",
+  "turns": 18,
+  "folds": 2,
+  "max_prompt": 2125,
+  "area": 30020,
+  "quiz_score": 0,
+  "quiz_total": 0,
+  "facts_stored": 34,
+  "model_calls": 38,
+  "forget": null
+ },
+ {
+  "mode": "memory",
+  "night": 2,
+  "asof": "2026-09-06",
+  "turns": 16,
+  "folds": 1,
+  "max_prompt": 2267,
+  "area": 27595,
+  "quiz_score": 9,
+  "quiz_total": 10,
+  "facts_stored": 33,
+  "model_calls": 43,
+  "forget": null
+ },
+ {
+  "mode": "memory",
+  "night": 3,
+  "asof": "2026-10-06",
+  "turns": 15,
+  "folds": 2,
+  "max_prompt": 2373,
+  "area": 27090,
+  "quiz_score": 10,
+  "quiz_total": 10,
+  "facts_stored": 34,
+  "model_calls": 42,
+  "forget": {
+   "subject": "amulet",
+   "deleted": 4,
+   "remaining": 0,
+   "in_summary": false,
+   "in_reply": false
+  }
+ },
+ {
+  "mode": "goldfish",
+  "night": 2,
+  "asof": "2026-09-06",
+  "turns": 16,
+  "folds": 0,
+  "max_prompt": 3078,
+  "area": 31455,
+  "quiz_score": 3,
+  "quiz_total": 10,
+  "facts_stored": 0,
+  "model_calls": 26,
+  "forget": null
+ },
+ {
+  "mode": "goldfish",
+  "night": 3,
+  "asof": "2026-10-06",
+  "turns": 15,
+  "folds": 0,
+  "max_prompt": 2611,
+  "area": 26062,
+  "quiz_score": 4,
+  "quiz_total": 10,
+  "facts_stored": 0,
+  "model_calls": 25,
+  "forget": null
+ }
+]
